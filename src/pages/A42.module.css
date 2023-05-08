@@ -1,0 +1,167 @@
+.mega1Icon {
+  top: 176px;
+  left: 109px;
+  width: 493px;
+  height: 434.74px;
+  object-fit: cover;
+  opacity: 0.12;
+}
+.a42Child,
+.mega1Icon,
+.x {
+  position: absolute;
+}
+.a42Child {
+  top: -105px;
+  left: 1.43px;
+  background-color: #faf8fc;
+  width: 1698.76px;
+  height: 94.11px;
+  transform: rotate(70deg);
+  transform-origin: 0 0;
+}
+.x {
+  top: 23px;
+  left: 441px;
+  font-size: 80px;
+  font-weight: 900;
+  color: var(--color-darkslateblue-200);
+  display: inline-block;
+  width: 58px;
+  height: 79px;
+}
+.tournament {
+  font-size: var(--font-size-17xl);
+}
+.debateTournament,
+.prizes,
+.schedule {
+  position: absolute;
+  font-weight: 900;
+  display: inline-block;
+}
+.debateTournament {
+  top: 16px;
+  left: 30px;
+  color: var(--color-darkslateblue-200);
+  width: 426px;
+  height: 228px;
+  font-size: 48px;
+}
+.prizes,
+.schedule {
+  top: 837px;
+  left: 26px;
+  text-align: center;
+  width: 549px;
+  height: 61px;
+}
+.schedule {
+  top: 1106px;
+}
+.freeEntry {
+  margin: 0;
+}
+.freeEntryWeekendContainer {
+  position: absolute;
+  top: 123px;
+  left: 30px;
+  font-size: 18px;
+  font-weight: 900;
+  color: #8e7c96;
+  display: inline-block;
+  width: 356px;
+  height: 227px;
+}
+.a42Item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #983edf;
+  position: absolute;
+  top: 222px;
+  left: 32px;
+  border-radius: 100px;
+  width: 229px;
+  height: 43px;
+}
+.signUp {
+  position: absolute;
+  top: 235px;
+  left: 115px;
+  font-size: 15px;
+  font-weight: 900;
+  color: var(--color-white);
+}
+.saturday100PmContainer,
+.stTeam50Container {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.01em;
+  font-weight: 900;
+  color: var(--color-darkslateblue-100);
+}
+.stTeam50Container {
+  top: 887px;
+  left: 64px;
+  white-space: pre-wrap;
+}
+.saturday100PmContainer {
+  top: 1159px;
+  left: 63px;
+  text-align: center;
+}
+.a42Inner {
+  position: absolute;
+  top: 1088.5px;
+  left: 56.5px;
+  border-top: 1px solid #9f29e7;
+  box-sizing: border-box;
+  width: 490px;
+  height: 1px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 611px;
+  left: 0;
+  width: 602px;
+  height: 183px;
+  object-fit: cover;
+}
+.onBalanceThe {
+  font-size: 22px;
+}
+.resolvedOnBalanceContainer {
+  position: absolute;
+  top: 648px;
+  left: 32px;
+  font-weight: 900;
+  display: inline-block;
+  width: 547px;
+  height: 228px;
+  font-size: 30px;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 25px;
+  left: 499px;
+  width: 103px;
+  height: 98px;
+  object-fit: cover;
+}
+.image2Icon {
+  left: 336px;
+  width: 100px;
+}
+.a42 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1470px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}
